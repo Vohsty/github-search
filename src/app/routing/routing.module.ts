@@ -6,11 +6,14 @@ import { RepositoriesComponent } from '../components/repositories/repositories.c
 
 const routes: Routes = [
   {path:'',
-  component:ProfileComponent
+  component:ProfileComponent,
     },
 
   {path:'repos',
   component:RepositoriesComponent, 
+    },
+    {path:'profile',
+  component:ProfileComponent, 
     },
 ];
 

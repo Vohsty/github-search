@@ -31,7 +31,7 @@ Improve validation on info typed. Add repo serach
 | Behaviour                     | Sample input             | Expected output                                         |
 |-------------------------------|--------------------------|-------------------------------------------|
 | Submit search form            | Click submit button      | Returns search result            |
-| Dark/light mode                | Click background button | Toggle between dark and light mode                       |
+|                | |                     |
 
 ## Support and contact details
 For any questions, troubleshooting or contributions,  find me on:
