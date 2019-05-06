@@ -1,0 +1,43 @@
+nav {
+    background: #2D2E2E;
+    height: 100%;
+}
+
+.activated {
+    border-radius: 8px;
+
+    background-color: #00a8ff;
+}
+
+
+
+a {
+    color: #fff;
+    display: block;
+}
+ul {
+    list-style-type: none;
+    margin:0;padding:0;
+}
+    
+li {
+
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 8px;
+    background: #2D2E2E;
+}
+a {
+    font-size: 1.5em;
+    text-decoration: none;
+    font-weight: bold;
+   
+}
+body {
+    margin: 0;
+    background: #F2F2F2;
+    font-family: 'Montserrat', sans-serif;
+    height: 100vh;
+}
+
+
