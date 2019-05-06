@@ -1,27 +1,46 @@
 # GithubSearch
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+This is a github search app where developed by **Steve Kimanthi** . It works by one typing a github username and the app searches github then displays info about the user.The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+ 
+## Setup/Installation Requirements
+* Clone the application using git clone(this copies the app onto your device):
+* `git-clone`
+* Install required node packages:
+* `npm install`
+* Serve the application:
+* `ng serve`
+* open localhost on your browser to use application
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Future Improvemnts
+Improve validation on info typed. Add repo serach
 
-## Build
+## Technologies Used
+* HTML
+* CSS(Bootstrap)
+* JavaScript
+* Angular 7
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Behaviour driven development/ input and output checking
+* The user will load the page and search for users github profiles.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+| Behaviour                     | Sample input             | Expected output                                         |
+|-------------------------------|--------------------------|-------------------------------------------|
+| Submit search form            | Click submit button      | Returns search result            |
+| Dark/light mode                | Click background button | Toggle between dark and light mode                       |
 
-## Running end-to-end tests
+## Support and contact details
+For any questions, troubleshooting or contributions,  find me on:
+* Mobile: +0710998712
+* Email: vohsty@gmail.com
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+### License
+MIT License
+Copyright (c) {2019} **Steve Kimanthi**
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
